@@ -19,5 +19,5 @@ When you enter ```/start```, the bot sends you a welcome message and offers to e
 When you enter ```/instruction```, the bot sends you a message with the short description of the bot and some advice how to use it.
 ![Instruction](https://github.com/Gregory-coder/Clothes_Bot/blob/main/instruction.jpg)
 ### Add clothes
-When you enter ```/add_clothes```, the bot asks you about the name of the clothes you are going to add and then asks you about the type of it (hat/boots/coat...). After you enter these data, the bot asks you about the temperature it suits for.
+When you enter ```/add_clothes```, the bot asks you the name of the clothes you are going to add and then asks you the type of it (hat/boots/coat...). After you enter these data, the bot asks you the temperature it suits for.
 ![Add_clothes](https://github.com/Gregory-coder/Clothes_Bot/blob/main/add_clothes.jpg) 
