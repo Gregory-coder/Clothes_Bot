@@ -20,7 +20,7 @@ Clothes bot предназначен для облегчения процесс�
 Когда вы вводите ```/instruction```, бот отправляет вам сообщение с кратким описанем и инструкцией.
 ![Instruction](https://github.com/Gregory-coder/Clothes_Bot/blob/main/instruction.jpg)
 ### Add clothes
-When you enter ```/add_clothes```, the bot asks you about the name of the clothes you are going to add and then asks you about the type of it (hat/boots/coat...). After you enter these data, the bot asks you about the temperature it suits for.
+Когда вы вводите ```/add_clothes```, бот спрашивает название одежды, которую вы собираетесь добавить и её тип (шляпа/ботинки/куртка...). После получения этих данных, бот спросит у вас температуру, при которой можно надевать эту одежду.
 ![Add_clothes](https://github.com/Gregory-coder/Clothes_Bot/blob/main/add_clothes.jpg) 
 
 
