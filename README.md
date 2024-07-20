@@ -1,6 +1,6 @@
 # Clothes bot
 ## ⚠️ Attention
-This bot is not supported since 2023.
+This bot is not supported since 2023. If you want to try it, please write me directly.
 ## Short introduction
 This Telegram bot was created to help people to choose right clothes in different weather conditions. Unfortunately, the **bot speaks only Russian**. But I think, if you read the instruction carefully, you'll be able to use the bot even if you don't know Russian. Now it runs on Heroku, and if you want to use or test it, find it on Telegram (**@lit_clothes_bot**) or click [here](https://t.me/lit_clothes_bot).
 ## How it works?
